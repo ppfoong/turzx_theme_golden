@@ -1,4 +1,5 @@
-# Turing 5" Smart Screen (图灵智显, Turzx) - "Golden" theme
+# Turing 5" Smart Screen (图灵智显, Turzx) 
+# - "Golden" theme
  
  Turzx is an IPS panel display smart screen with various screen size selections that you can purchase online.
 
@@ -14,6 +15,10 @@ By running a portable software supplied together with the smart screen, your com
 - Current date and time
 - Current weather of your location
 
-A theme defines how those vital data is displayed on the smart screen. Multiple themes are supported, and you can select one active theme at a time. The same software includes a theme designer for us to design and/or make changes to the themes.
+A theme defines how those vital data is displayed on the smart screen. Multiple themes are supported, and you can select one active theme at a time.
+
+The same software includes a theme designer for us to design and/or make changes to the themes.
 
 This "Golden" theme is designed by me in May 2024 for Turzx 5" smart screen.
+
+You can see how this theme looks like by viewing golden-fs.png
