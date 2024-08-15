@@ -1,5 +1,5 @@
 # Turing 5" Smart Screen (图灵智显, Turzx) 
-# - "Golden" theme
+# - 'Golden' theme
  
  Turzx is an IPS panel display smart screen with various screen size selections that you can purchase online.
 
